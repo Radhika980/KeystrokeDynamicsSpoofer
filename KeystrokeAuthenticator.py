@@ -1,4 +1,4 @@
-# Abdullah Arif
+
 # Program created to identify use based on their keystroke
 
 # imports 
