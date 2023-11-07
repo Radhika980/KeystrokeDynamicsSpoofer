@@ -19,6 +19,3 @@ Classifier - classify users depending on their behavior
 - wolf - these people have an easier time pretending to be other users
 
 
-# reference
-# 14 algorithms based on - https://www.cs.cmu.edu/~maxion/pubs/KillourhyMaxion09.pdf
-# Awesome guide -# https://appliedmachinelearning.blog/2017/07/26/user-verification-based-on-keystroke-dynamics-python-code/
