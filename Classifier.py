@@ -1,5 +1,4 @@
-# Abdullah Arif, Clyde Rempillo, Andrew Myshok
-# COMP-4800 - Selected Topic in Software engineering project
+
 # Keystroke dynamics user classifier - trying to classify users based on the difference of their authentication
 from KeystrokeAuthenticator import KeystrokeAuthenticator
 from statistics import stdev, mean
